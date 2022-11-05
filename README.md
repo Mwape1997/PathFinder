@@ -6,7 +6,7 @@ A Python script that finds the deepest subdirectory within a path
 1. Clone the repo
 2. You can run the following command directly from your terminal:
 
-python3 PathFinder/main.py. --path <YOUR PATH HERE>
+python3 PathFinder/main.py. --path YOUR/PATH/HERE
 
 ### Option 2 - Run Docker Image:
 
